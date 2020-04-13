@@ -1,0 +1,16 @@
+t1.c	local static variable can be used by other function by pointing it using its local pointer ?
+t2a.c	To use local static variable in other file
+t2b.c	
+t3.c 	To understand that static and global variable can only initialize by constant value
+t4.c 	To learn that : when we initialize few elements of array, then other elements of array contains zero value
+t5.c	Write a program to implement list, which should has add to end function and print lsit function
+t6.c	To learn difference between "arr" and "&arr", if arr[] is array
+t7.c	How to declare pointer to array of 3 intergers
+
+
+t9.c	To find binary of given number
+
+t11.c	To copy one string to another string
+t12.c	Convert String to float
+t13.c	To reverse words in string
+
