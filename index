@@ -13,4 +13,5 @@ t9.c	To find binary of given number
 t11.c	To copy one string to another string
 t12.c	Convert String to float
 t13.c	To reverse words in string
+t14.c 	To reverse link list
 
