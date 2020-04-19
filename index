@@ -9,7 +9,7 @@ t7.c	How to declare pointer to array of 3 intergers
 
 
 t9.c	To find binary of given number
-
+t10.c	To implement user define pow() function
 t11.c	To copy one string to another string
 t12.c	Convert String to float
 t13.c	To reverse words in string
