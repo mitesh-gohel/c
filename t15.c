@@ -37,7 +37,7 @@ void do_capital(char *str)
 }
 
 /*
-Concusion :
+Conclusion :
 We can modify string, But string literal is read-only
 string stores in stack or data segment
 string literal stores in code segment, which is read-only
