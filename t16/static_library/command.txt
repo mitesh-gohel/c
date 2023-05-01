@@ -1,0 +1,26 @@
+To create object files :
+	gcc -c sum.c sub.c div.c mul.c
+
+To create static library :
+	ar -rsc libcal.a sum.o sub.o div.o mul.o
+	where
+		r : replace / insert
+		s : indexing
+		c : creaate
+
+To see object files of library :
+	ar -t <library_name>
+	Ex. ar -t libcal.a
+To remove object file from library :
+	ar -d <library_name> <object_file_name>
+	Ex. ar -d libcal.a mul.o
+To insert or replace object file in library :
+	ar -r <library_name> <object_file_name>
+	Ex. ar -r libcal.a mul.o
+
+To generate executable using static library :
+	gcc -static main.c libcal.a
+
+Note :
+	By default linking is dynamic linking
+	When we run "gcc p1.c", linker links libc.so dynamic library (libc.so library taken automaticaally)

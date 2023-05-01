@@ -1,0 +1,1 @@
+gcc main.c sum.c sub.c div.c mul.c

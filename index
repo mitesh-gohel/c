@@ -16,3 +16,4 @@ t13.c	To reverse words in string
 t14.c 	To reverse link list
 t15.c 	To learn difference between string literal and string
 
+t17	To implement cp command
