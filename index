@@ -17,3 +17,10 @@ t14.c 	To reverse link list
 t15.c 	To learn difference between string literal and string
 
 t17	To implement cp command
+
+t19.c	To take date in dd-mmy-yyyy format from user
+t20.c	To implement my_strstr()
+t21.c	Implement cp command
+t22.c	Initializing string
+t23.c	What will happen, if we don't include string.h and use strcpy() ?
+
