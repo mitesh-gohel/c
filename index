@@ -17,7 +17,7 @@ t14.c 	To reverse link list
 t15.c 	To learn difference between string literal and string
 
 t17	To implement cp command
-
+t18 	To check : declaration of variable in switch case
 t19.c	To take date in dd-mmy-yyyy format from user
 t20.c	To implement my_strstr()
 t21.c	Implement cp command
